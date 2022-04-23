@@ -1,0 +1,23 @@
+.nav-enlace{
+   display:inline-block;
+   background: black;
+   color:yellowgreen;
+   padding:10px 30px;
+   text-decoration:none;
+
+}
+.nav-enlace:hover{
+    background:pink;
+}
+nav{
+    background:#E8CC0A;
+    padding:20px;
+}
+
+header .logo2.png{
+    font-size:50px;
+    line-height:  200px;
+    float:left;
+
+}
+    
